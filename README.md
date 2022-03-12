@@ -1,2 +1,2 @@
 # opencart_custom_module
-An opencart project with a small registered customer list is customized
+A customized opencart module with a small registered customer list
